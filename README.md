@@ -1,4 +1,4 @@
 # Firstproject-demo
 This is my first Git repository.
 <br>
-Author - Pratiksha Nitalikar
+Author - Pratiksha Narsingrao Nitalikar
